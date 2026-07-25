@@ -8,7 +8,7 @@ Summary(ru): Инструмент для установки и управлен�
 Summary(uk): Інструмент для встановлення та керування з'єднанням VPN через PPTP/L2TP
 Name: vpnpptp-kde-one
 Version: 0.2.8
-Release: %mkrel %{rel}
+Release: %{rel}.1
 License: GPL2
 Group: Network
 
